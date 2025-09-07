@@ -65,9 +65,9 @@ jupyter notebook Recommender_System_using_NMF.ipynb
 ```
 Recommendation for User1:
         Recommendation
-Item3          2.45
-Item1          1.78
-Item5          1.21
+Item3          5.0
+Item1          5.0
+Item5          3.0
 ...
 ```
 
@@ -75,14 +75,14 @@ Item5          1.21
 ```
 Similar items to 'Item1':
     Item  Similarity
-0  Item4    0.892134
-1  Item3    0.754332
-2  Item2    0.645211
+0  Item4    0.000000
+1  Item3    0.996984
+2  Item2    0.000000
 ```
 
 - **Specific Recommended Item**
 ```
-Recommended specific value for User1: Item3
+Recommended specific value for User1: Item1
 ```
 
 ---
