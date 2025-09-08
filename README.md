@@ -90,3 +90,5 @@ Recommended specific value for User1: Item1
 ## 📖 References
 - [Scikit-learn: NMF](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html)  
 - [Recommender Systems Introduction](https://en.wikipedia.org/wiki/Recommender_system)
+
+**Sujay Roy**
